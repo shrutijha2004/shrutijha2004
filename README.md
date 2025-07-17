@@ -79,10 +79,10 @@ I enjoy creating meaningful visualizations, building end-to-end data pipelines, 
 
 ---
 
-## 🚀 Portfolio
+## 🚀 Projects
 
 ✨ Explore my latest work, dashboards, and projects here:  
-🔗 **[github.com/shruti-jha](https://github.com/shrutijha2004)**
+🔗 **[My Projects](https://github.com/shrutijha2004)**
 
 ---
 
