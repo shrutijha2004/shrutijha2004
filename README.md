@@ -82,7 +82,7 @@ I enjoy creating meaningful visualizations, building end-to-end data pipelines, 
 ## 🚀 Projects
 
 ✨ Explore my latest work, dashboards, and projects here:  
-🔗 **[My Projects](https://github.com/shrutijha2004)**
+🔗 **[My Projects](https://github.com/shrutijha2004?tab=repositories)**
 
 ---
 
