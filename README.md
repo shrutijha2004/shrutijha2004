@@ -71,11 +71,11 @@ I enjoy creating meaningful visualizations, building end-to-end data pipelines, 
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutijha2004&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutijha2004&layout=compact&theme=tokyonight&hide=css,html,php,java,javascript)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shrutijha2004&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutijha2004&layout=compact&theme=tokyonight&hide=css,html,php,java,javascript,c" />
+</div>
 
 
 ---
