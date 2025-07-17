@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Shruti Jha</h1>
 <h3 align="center">B.Tech CSE (AI & ML) Student | Aspiring Data Analyst & ML Enthusiast </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Data+Tells+Stories,+I+Translate+Them+📊;Aspiring+Data+Scientist+%7C+ML+Explorer+%7C+Tech+Lover;Turning+Raw+Data+into+Insights+and+Impact" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
@@ -47,16 +43,28 @@ I enjoy creating meaningful visualizations, building end-to-end data pipelines, 
 ## 💼 Skills & Tools
 
 ### 🧠 Languages & Libraries
-`Python` `SQL` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn`
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-004F9F?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-5A4FCF?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 📊 Data & BI Tools
-`Power BI` `Excel` `Jupyter Notebook` `Google Colab` `MySQL`
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌐 Web & Backend
-`HTML` `CSS` `Flask (basic)` `Git` `GitHub`
 
-### ⚙️ Platforms & Environments
-`Anaconda` `VS Code` `Kaggle` `GitHub Pages` `Vercel`
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
@@ -73,7 +81,7 @@ I enjoy creating meaningful visualizations, building end-to-end data pipelines, 
 ## 🚀 Portfolio
 
 ✨ Explore my latest work, dashboards, and projects here:  
-🔗 **[shruti-portfolio-sigma.vercel.app](https://shruti-portfolio-sigma.vercel.app/)**
+🔗 **[github.com/shruti-jha](https://github.com/shruti-jha)**
 
 ---
 
