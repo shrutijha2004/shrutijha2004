@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋 I'm Shruti Jha
 
-<!--
-**shrutijha2004/shrutijha2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student | 📊 Aspiring Data Analyst 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- Data analysis projects using **Python**, **Power BI**, and **SQL**
+- Enhancing my portfolio with real-world datasets and visual dashboards
+
+### 🌱 Currently Learning
+- Advanced **Machine Learning** techniques
+- **Data Structures & Algorithms** in Python
+- **Flask** for backend development
+
+### 💬 Ask Me About
+- Python, Pandas, SQL, Power BI, Excel, MySQL  
+- Data visualization, cleaning, and storytelling
+
+### 🤝 Let's Connect
+- 🌐 **Portfolio:** [shruti-portfolio-sigma.vercel.app](https://shruti-portfolio-sigma.vercel.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/shruti-jha-000a6a275](https://www.linkedin.com/in/shruti-jha-000a6a275)
+- 📫 **Email:** reachshrutijha2004@gmail.com
+
+---
+
+Thanks for visiting my profile! 😊  
+I'm always open to new opportunities, collaborations, and learning experiences.
+
