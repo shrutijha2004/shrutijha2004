@@ -67,17 +67,14 @@ I enjoy creating meaningful visualizations, building end-to-end data pipelines, 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
----
+### 🤖 Machine Learning
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shrutijha2004&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutijha2004&layout=compact&theme=tokyonight&hide=css,html,php,java,javascript" />
-
-</div>
+- Supervised Learning: Linear Regression, Logistic Regression, SVM
+- Tree-based Models: Decision Trees, Random Forest
+- Unsupervised Learning: K-Means Clustering, Hierarchical Clustering
+- Model Evaluation: Accuracy, Precision, Recall, F1-score, ROC-AUC
+- Feature Engineering & Data Preprocessing
+- Hyperparameter Tuning (GridSearchCV)
 
 
 ---
