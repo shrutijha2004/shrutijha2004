@@ -94,7 +94,7 @@ I'm always open to learning, networking, and collaborating on exciting projects.
   <a href="https://www.linkedin.com/in/shruti-jha-000a6a275">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shruti.email@example.com">
+  <a href="mailto:reachshrutijha2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://shruti-portfolio-sigma.vercel.app/">
