@@ -6,7 +6,7 @@
 ## 👩‍💻 About Me
 
 I am a final-year B.Tech student with a specialization in Artificial Intelligence & Machine Learning.  
-With a keen eye for patterns and a love for turning data into decisions, I'm currently building my expertise in **Data Analysis**, **Data Science**, **Web Development**. and **Machine Learning**.
+With a keen eye for patterns and a love for turning data into decisions, I'm currently building my expertise in **Data Analysis**, **Data Science**, **Web Development** and **Machine Learning**.
 
 I enjoy creating meaningful visualizations, building end-to-end data pipelines, and continuously learning how data can solve real-world problems.
 
