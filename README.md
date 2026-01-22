@@ -6,7 +6,7 @@
 ## 👩‍💻 About Me
 
 I am a final-year B.Tech student with a specialization in Artificial Intelligence & Machine Learning.  
-With a keen eye for patterns and a love for turning data into decisions, I'm currently building my expertise in **Data Analysis**, **Data Science**, and **Machine Learning**.
+With a keen eye for patterns and a love for turning data into decisions, I'm currently building my expertise in **Data Analysis**, **Data Science**, **Web Development**. and **Machine Learning**.
 
 I enjoy creating meaningful visualizations, building end-to-end data pipelines, and continuously learning how data can solve real-world problems.
 
@@ -14,6 +14,7 @@ I enjoy creating meaningful visualizations, building end-to-end data pipelines, 
 
 ## 🔍 Areas of Interest
 
+- 🌐 **Web Development (Frontend & Backend)**
 - 📊 **Data Analysis & Visualization**
 - 🤖 **Machine Learning & Predictive Modeling**
 - 📈 **Business Intelligence (Power BI, Excel)**
@@ -24,6 +25,7 @@ I enjoy creating meaningful visualizations, building end-to-end data pipelines, 
 
 ## 🔭 Currently Working On
 
+- Designing and developing responsive web applications using **HTML**, **CSS**, **JavaScript**, and backend components
 - Real-world **Power BI dashboards** and Python-based analysis projects  
 - Building clean and insightful **data pipelines** with **Pandas**, **NumPy**, and **MySQL**  
 - Experimenting with **ML models** for classification, regression & clustering  
@@ -33,6 +35,7 @@ I enjoy creating meaningful visualizations, building end-to-end data pipelines, 
 
 ## 🌱 Currently Learning
 
+- Web application development and deployment using **JavaScript**, **Flask**, and platforms like Vercel
 - Advanced **Machine Learning** concepts: Feature engineering, model tuning, evaluation
 - End-to-end **Data Science project lifecycle**
 - Deploying ML projects and dashboards with tools like **Flask** and **Vercel**
@@ -64,6 +67,7 @@ I enjoy creating meaningful visualizations, building end-to-end data pipelines, 
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
